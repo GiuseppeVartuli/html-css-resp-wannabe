@@ -130,7 +130,11 @@ img {
 
 
 
-
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+}
 
 
 
@@ -154,3 +158,14 @@ img {
         width: 100%;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
